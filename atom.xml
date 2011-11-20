@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[isaac@CodingTao]]></title>
+  <title><![CDATA[isaact]]></title>
   <link href="http://isaact.github.com/atom.xml" rel="self"/>
   <link href="http://isaact.github.com/"/>
-  <updated>2011-11-20T16:59:33-06:00</updated>
+  <updated>2011-11-20T17:02:07-06:00</updated>
   <id>http://isaact.github.com/</id>
   <author>
     <name><![CDATA[Isaac Tewolde]]></name>
